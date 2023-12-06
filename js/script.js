@@ -18,3 +18,4 @@ newUser.validate();
 function display(){
     var  username = document.getElementById("name")
 }
+jhgvcuyrc
